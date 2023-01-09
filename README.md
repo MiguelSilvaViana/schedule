@@ -25,7 +25,7 @@ A schedule using react and mongodb, where it is possible to login and register t
 - React
 - Mongodb
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#schedule)
 
 ---
 
