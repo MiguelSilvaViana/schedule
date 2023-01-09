@@ -1,8 +1,9 @@
-# Read Me Template
+# SCHEDULE
 
-![Project Image](project-image-url)
+![image](https://user-images.githubusercontent.com/96927347/211233210-07510793-7c55-4fc2-9a55-80d4e8bd4674.png)
+![image](https://user-images.githubusercontent.com/96927347/211233215-93798606-4516-487f-a0b9-506642b7e670.png)
+![image](https://user-images.githubusercontent.com/96927347/211233218-a538c164-ad84-4cc8-9441-8a34269b20b4.png)
 
-> This is a ReadMe template to help save you time and effort.
 
 ---
 
@@ -11,20 +12,18 @@ You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
 - [How To Use](#how-to-use)
-- [References](#references)
 - [License](#license)
-- [Author Info](#author-info)
 
 ---
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+A schedule using react and mongodb, where it is possible to login and register that it is linked to the mongodb database and also after entering the system it is possible to create, edit and delete tasks that are also saved in the database any changes to your tasks.
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- React
+- Mongodb
 
 [Back To The Top](#read-me-template)
 
@@ -33,20 +32,10 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 ## How To Use
 
 #### Installation
-
-
-
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
-[Back To The Top](#read-me-template)
-
----
-
-## References
-[Back To The Top](#read-me-template)
+To install the project dependencies type:\
+`pnpm i`\
+Then, to start the project, run:\
+`pnpm run dev`
 
 ---
 
@@ -54,7 +43,7 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 MIT License
 
-Copyright (c) [2017] [James Q Quick]
+Copyright (c) [2022] [MgL]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -73,14 +62,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-[Back To The Top](#read-me-template)
-
----
-
-## Author Info
-
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
 
 [Back To The Top](#read-me-template)
